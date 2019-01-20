@@ -9,5 +9,7 @@ public class Hello {
         int myThirdNumber = 2 * myFirstNumber;
         int myTotal= myFirstNumber + mySecindNumber + myThirdNumber;
         System.out.println(myTotal );
+        System.out.println("Hello World);
+
     }
 }
